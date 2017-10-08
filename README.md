@@ -13,7 +13,7 @@ Open the file from your drive and navigate to the menu bar. Click <i>tools</i> a
 3. <i>menuBar.gs</i>
 4. <i>scrapeIndeed.gs</i>
 
-If you can't locate these files, create them, and copy/paste the corresponding scripts located in this <i>GitHub</i> repository.
+If you can't locate these files, create them, and copy/paste the corresponding scripts located in the root folder of this <i>GitHub</i> repository.
 
 ### Define the Search Query
 If you want to change the parameters of the search navigate to the following paths and follow the formating and naming conventions provided. The job titles and locations I added as examples can be removed if desired.
@@ -52,7 +52,7 @@ The first time you try to run this app, <i>Google</i> will inform you the app mu
 <img src="./assets/5_continue.png" width="50%" >
 <br>
 
-6. Once verified, the app should run. But, if it doesn't, repeat step 1 and that should do the trick. The returned results will be organized first by the date each job was posted, then by the city it's located in. Delete any row containing an undesired job, and the job won't appear in future searches. 
+6. Once verified, the app should run. But, if it doesn't, repeat step 1 and that should do the trick. The returned results will be organized first by the date each job was posted, then by the city it's located in. Delete any row containing an undesired job, and the job won't appear in future searches.
 
 ### Automate the Search
 This script can also be automated. Navigate to the menu bar. Click <i>tools</i> and select <i>Script editor</i>. Then navigate to the new menu bar, click <i>Edit</i>, then select <i>Current project's triggers</i>. Create a new automated trigger by clicking the link labeled <i>No triggers set up. Click here to add one now</i>. Make sure to select <i>initiate</i> from the first drop-down menu. This is the function that runs the job search. The remaining drop-down menus can be set to your preferences.
