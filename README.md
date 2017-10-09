@@ -13,7 +13,7 @@ Open the file from your drive and navigate to the menu bar. Click <i>tools</i> a
 3. <i>menuBar.gs</i>
 4. <i>scrapeIndeed.gs</i>
 
-If you can't locate these files, create them, and copy/paste the corresponding scripts located in the root folder of this <i>GitHub</i> repository.
+If you can't locate these files, select <i>File</i> > <i>New</i> > <i>Script File</i> > name the file, then copy/paste the corresponding scripts located in the root folder of this <i>GitHub</i> repository.
 
 ### Define the Search Query
 If you want to change the parameters of the search navigate to the following paths and follow the formating and naming conventions provided. The job titles and locations I added as examples can be removed if desired.
