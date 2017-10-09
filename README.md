@@ -37,7 +37,7 @@ The first time you try to run this app, <i>Google</i> will inform you the app mu
 <img src="./assets/2_authorize.png" width="50%" >
 <br>
 
-3. Select the link labeled <i>Advanced</i>. Then select the <i>Google</i> account you wish to use.
+3. Select the <i>Google</i> account you wish to use. Then select the link labeled <i>Advanced</i>.
 <br>
 <img src="./assets/3_advanced.png" width="50%" >
 <br>
