@@ -1,6 +1,9 @@
 # <u>Overview</u>
 I created this script uses to automate multiple job searches at once. The script uses Indeed.com API to search for various jobs within different cities. For example, if <i>Project Manager</i> + <i>Product Manager</i> and <i>Austin, TX</i> + <i>Boulder, CO</i> + <i>San Francisco, CA</i> are all added to the search query, a search will run for both job titles within each city, then return the results.
 
+![Job Search](./assets/jobSearchTemplate.png)
+
+
 # <u>Initial Setup</u>
 
 ### Template Sheet
